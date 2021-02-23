@@ -12,18 +12,14 @@ namespace DaftLibTest
             var q = "dublin";
 
             var d = new Daft();
-
             var sb = new SearchBuilder()
-                .WithAddState(new[] { AdState.Available })
-                .WithKeyword(q);
+                .WithAdState(new[] { AdState.Available })
+                .WithKeyword("dublin");
 
             var rslt = await d.Search(sb.Build());
             if(rslt != null)
             {
-                Console.WriteLine(JsonSerializer.Serialize(rslt, options: new JsonSerializerOptions()
-                {
-                    WriteIndented = true
-                }));
+                //do something with rslt
             }
         }
     }

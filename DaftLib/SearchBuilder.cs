@@ -164,7 +164,7 @@ namespace DaftLib
             return this;
         }
 
-        public SearchBuilder WithAddState(IEnumerable<AdState> states)
+        public SearchBuilder WithAdState(IEnumerable<AdState> states)
         {
             Search.Filters.Add(new Filter()
             {
