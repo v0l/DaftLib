@@ -1,0 +1,12 @@
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\bin\Debug\net5.0\DaftLib.deps.json
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\bin\Debug\net5.0\DaftLib.dll
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\bin\Debug\net5.0\ref\DaftLib.dll
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\bin\Debug\net5.0\DaftLib.pdb
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\obj\Debug\net5.0\DaftLib.csprojAssemblyReference.cache
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\obj\Debug\net5.0\DaftLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\obj\Debug\net5.0\DaftLib.AssemblyInfoInputs.cache
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\obj\Debug\net5.0\DaftLib.AssemblyInfo.cs
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\obj\Debug\net5.0\DaftLib.csproj.CoreCompileInputs.cache
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\obj\Debug\net5.0\DaftLib.dll
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\obj\Debug\net5.0\ref\DaftLib.dll
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\obj\Debug\net5.0\DaftLib.pdb

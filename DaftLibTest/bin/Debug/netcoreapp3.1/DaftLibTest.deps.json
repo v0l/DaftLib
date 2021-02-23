@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DaftLibTest/1.0.0": {
+        "dependencies": {
+          "DaftLib": "1.0.0"
+        },
+        "runtime": {
+          "DaftLibTest.dll": {}
+        }
+      },
+      "DaftLib/1.0.0": {
+        "runtime": {
+          "DaftLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DaftLibTest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DaftLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

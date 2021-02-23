@@ -1,0 +1,9 @@
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\bin\Debug\netcoreapp3.1\DaftLib.deps.json
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\bin\Debug\netcoreapp3.1\DaftLib.dll
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\bin\Debug\netcoreapp3.1\DaftLib.pdb
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\obj\Debug\netcoreapp3.1\DaftLib.csprojAssemblyReference.cache
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\obj\Debug\netcoreapp3.1\DaftLib.AssemblyInfoInputs.cache
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\obj\Debug\netcoreapp3.1\DaftLib.AssemblyInfo.cs
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\obj\Debug\netcoreapp3.1\DaftLib.csproj.CoreCompileInputs.cache
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\obj\Debug\netcoreapp3.1\DaftLib.dll
+C:\Users\Kieran\source\repos\DaftLib\DaftLib\obj\Debug\netcoreapp3.1\DaftLib.pdb
